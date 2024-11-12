@@ -1,4 +1,17 @@
 .image{
+    width: 278px;
+    height: 400px;
+}
+.photos{
     width: 270px;
     height: 210px;
+}
+#titulo{
+    width: 100%;
+    height: auto;
+    font-weight: bold;
+    color: rgb(163, 19, 151);
+    text-align: center;
+    margin-bottom: 10%;
+    background-color: rgb(255, 188, 216);
 }
