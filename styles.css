@@ -1,6 +1,6 @@
 .photos{
-    width: 300px;
-    height: 210px;
+    width: 250px;
+    height: 207px;
     margin-top: 1%;
     margin-bottom: 1%;
     margin-left: 1%;
@@ -14,7 +14,9 @@
 }
 #background{
     background-color: #0F131C;
-    padding: 12px;
+    padding: 10px;
+    margin-left: 10px;
+    width: 75%;
 }
 #macaco{
     width: 320px;
@@ -22,16 +24,18 @@
     border-radius: 50%;
     margin-top: 2%;
     border: 5px solid #060606;
+    margin-right: 450px;
 }
 #texto{
     text-align: left;
     font-weight: bold;
+    width: 75%;
 }
 #espaco{
     margin: 5%;
 }
 #topicos{
-    text-align: center;
+    text-align: left;
     font-weight: bold;
 }
 #id{
@@ -49,6 +53,6 @@
 #textorodapé{
     margin-left: 50px;
 }
-#sombra{
-    box-shadow: 10px 10px 15px rgba(red, green, blue);
+.secoes{
+    margin-left: 100px;
 }
